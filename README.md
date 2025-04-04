@@ -58,6 +58,9 @@ Este proyecto es una API REST hecha con Flask para el Zebrand Backend Test.
 5.  **Configura la base de datos:**
 
     * Crea una base de datos MySQL con el nombre que desees.
+    * Usa los scripts dentro de la carpeta `db_scripts` y ejecuta en el siguiente orden
+        * `01_crea_tablas.sql`
+        * `02_inserta_datos.sql`
     * Modifica el archivo `comun/constantes.py` y actualiza la configuración de  la constante `DB_CONEXION` con los detalles de tu base de datos.
 
 6.  **Ejecuta la aplicación:**
