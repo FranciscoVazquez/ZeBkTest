@@ -68,6 +68,8 @@ Este proyecto es una API REST hecha con Flask para el Zebrand Backend Test.
 7. **Revisa que el servidor se este ejecutando usando**
     * En un ambiente DEV Puedes revisarlo en la liga `http://127.0.0.1:5000/`
 
+8. **Ejecuta pruebas de API usando las colecciones Postman**
+
 ## Autor
 
 Francisco Vazquez Ravell
