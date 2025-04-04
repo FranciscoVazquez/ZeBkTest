@@ -1,6 +1,5 @@
-Flask
-Flask-SQLAlchemy
-Flask-Mail
-pymysql
-bcrypt
-PyJWT
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+PyMySQL==1.0.3
+bcrypt==4.0.1
+PyJWT==2.8.0
